@@ -4,7 +4,6 @@ let classificacao=""
 
 if (xpHeroi < 1000){
   classificacao = "Ferro"
-
 }else if(xpHeroi > 1001 && xpHeroi <2000){
 classificacao = "Bronze"
 
